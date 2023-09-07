@@ -16,6 +16,6 @@ install `colorama` using `pip`:
 
 ```bash
 pip install colorama
-
+```
 ```bash
 python3 -m pip install colorama
