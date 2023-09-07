@@ -12,7 +12,10 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.x installed
 - `colorama` library installed (for colored output)
 
-You can install `colorama` using `pip`:
+install `colorama` using `pip`:
 
 ```bash
 pip install colorama
+
+```bash
+python3 -m pip install colorama
